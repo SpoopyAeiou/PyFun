@@ -2,30 +2,25 @@ from random import randint
 
 def d20():
     x = randint (1,20)
-    print(x)
+    return
 d20()
-
 def d12():
      x = randint (1,12)
-     print(x)
+     return
 d12()
-
 def d10():
     x = randint (1,10)
-    print(x)
+    return
 d10()
-
 def d8():
     x = randint (1,8)
-    print(x)
+    return
 d8()
-
 def d6():
     x = randint (1,6)
-    print(x)
+    return
 d6()
-
 def d4():
     x = randint (1,4)
-    print(x)
+    return
 d4()
